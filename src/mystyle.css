@@ -1,0 +1,20 @@
+h1 {
+  color: purple;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.demo {
+  height: 50px;
+  width: 50px;
+  background-color: green;
+}
+
+.carousel-item img {
+  height: 450px;
+
+}
+
+.card img {
+  height: 250px;
+}
